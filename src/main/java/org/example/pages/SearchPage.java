@@ -22,8 +22,17 @@ public class SearchPage extends BasePage {
     public @FindBy(xpath = "//button[contains(text(), 'Dodaj do koszyka')]")
     WebElement addToBasketButton;
 
+    public @FindBy(xpath = "//button[contains(text(), 'Subskrybuj i kup')]")
+    WebElement subscribeAndBuyButton;
+
     public @FindBy(xpath = "//p[contains(text(), 'Nie znaleźliśmy wyników dla')]")
     List<WebElement> productNotFoundValidation;
+
+    public @FindBy(xpath = "//label[@data-locator='ppa-payment-plus']/input")
+    WebElement promotionVariantPrice;
+
+    public @FindBy(xpath = "//label[@data-locator='ppa-payment']/input")
+    WebElement defaultVariantPrice;
 
     public SearchPage(WebDriver driver) {
         super(driver);
@@ -38,9 +47,24 @@ public class SearchPage extends BasePage {
         return productPrice.getText();
     }
 
-    public void addToCart() {
+    public void selectGame() {
         productPrice.click();
+    }
+
+    public void addToBasket(){
         addToBasketButton.click();
+    }
+
+    public void subscribeAndBuy(){
+        subscribeAndBuyButton.click();
+    }
+
+    public void selectPromotionVariantPrice(){
+        promotionVariantPrice.click();
+    }
+
+    public void selectDefaultVariantPrice(){
+        defaultVariantPrice.click();
     }
 }
 

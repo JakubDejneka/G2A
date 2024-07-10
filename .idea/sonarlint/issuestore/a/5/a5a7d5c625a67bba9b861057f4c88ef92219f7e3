@@ -1,9 +1,0 @@
-
-N
-java:S1444"3Make this "public static HOME_PAGE_URL" field final(‚ר־דרÿÿÿÿ
-t
-java:S1104"YMake HOME_PAGE_URL a static final constant or non-public and provide accessors if needed.(‚ר־דרÿÿÿÿ
-s
-java:S3008"XRename this field "HOME_PAGE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ר־דרÿÿÿÿ
-U
-java:S1118":Add a private constructor to hide the implicit public one.(ש­₪£תÿÿÿÿ

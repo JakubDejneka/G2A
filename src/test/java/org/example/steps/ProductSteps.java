@@ -33,9 +33,21 @@ public class ProductSteps extends DriverFactory {
         productPrice = searchPage.getProductPrice();
     }
 
-    @When("I add the product to the cart")
-    public void iAddTheProductToTheCart() {
-        searchPage.addToCart();
+    @When("I add the product to the cart with priceVariant {string}")
+    public void iAddTheProductToTheCart(String priceVariant) {
+        searchPage.selectGame();
+        switch (priceVariant) {
+            case "yes":
+                searchPage.selectPromotionVariantPrice();
+                searchPage.subscribeAndBuy();
+                break;
+            case "no":
+                searchPage.selectDefaultVariantPrice();
+                searchPage.addToBasket();
+                break;
+            default:
+                fail("Invalid priceVariant parameter. Expected 'yes' or 'no'.");
+        }
     }
 
     @Then("I verify the price in the cart")

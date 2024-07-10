@@ -25,5 +25,4 @@ Po wykonanym teście zostanie automatycznie wygenerowany raport w poniższej lok
 target/cucumber-reports.html
 Jest to raport w postaci single-page html który zawiera przebieg testu- rezultat testu, kroki oraz załączone zrzuty ekranu
 
-P.S. 1 Test kończy się niepowodzeniem, co jest oczekiwanym rezultatem, ponieważ kwota w koszyku jest inna (wyższa niż ta podana w wyniku wyszukiwania)
-P.S. 2 Próbowałem skonfigurować projekt tak żeby działał z dockerem, ale nie mam jeszcze doświadczenia komercyjnego w tym temacie, więc pozostawiłem to z niedziałającym do końca Dockerfile.
+P.S. Próbowałem skonfigurować projekt tak żeby działał z dockerem, ale nie mam jeszcze doświadczenia komercyjnego w tym temacie, więc pozostawiłem to z niedziałającym do końca Dockerfile.

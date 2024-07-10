@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4d36a97-3995-4f8a-8691-aacf4855d380" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3dddfdd5cb09f9c86b684df12c8482f4180e6eab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d20907f628a3ca37b3e93b034f06a94d9616b33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5a7d5c625a67bba9b861057f4c88ef92219f7e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b023033adadc509405e12c5938502d20dd40f7c7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b7559825678b82f20b51760439e22e0cce0d233d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pages/BasketPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/BasketPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pages/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/SearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/properties/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/features/SearchForProduct.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/features/SearchForProduct.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/steps/ProductSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/steps/ProductSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/pages/BasketPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/pages/BasketPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/pages/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/pages/SearchPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.example.tests.RunCucumberTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-org.example.tests.RunCucumberTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/org.example.tests.RunCucumberTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/org.example.tests.RunCucumberTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/steps/ProductSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/steps/ProductSteps.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +67,7 @@
       <recent name="D:\PROGRAMY\EclipseWorkspace\G2A projekt\src\test\java\org\example\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.G2AProjekt [clean,test,-DproductName=gta]">
+  <component name="RunManager" selected="Maven.G2AProjekt [clean,test...]">
     <configuration name="Feature: SearchForProduct" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/org/example/features/SearchForProduct.feature" />
@@ -98,7 +117,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G2AProjekt [clean,test,-DproductName=gta]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+    <configuration name="G2AProjekt [clean,test...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -111,7 +130,7 @@
               <list>
                 <option value="clean" />
                 <option value="test" />
-                <option value="-DproductName=gta" />
+                <option value="-DproductName=diablo 2 lord of destruction" />
               </list>
             </option>
             <option name="pomFileName" />
@@ -129,7 +148,7 @@
       <item itemvalue="Cucumber java.Feature: SearchForProduct" />
       <item itemvalue="JUnit.AppTest.shouldAnswerWithTrue" />
       <item itemvalue="JUnit.RunCucumberTest" />
-      <item itemvalue="Maven.G2AProjekt [clean,test,-DproductName=gta]" />
+      <item itemvalue="Maven.G2AProjekt [clean,test...]" />
     </list>
     <recent_temporary>
       <list>
@@ -157,38 +176,38 @@
       <screen x="0" y="0" width="1720" height="1400" />
     </state>
     <state x="579" y="254" key="#Dockerfile/0.0.1720.1400@0.0.1720.1400" timestamp="1720601219495" />
-    <state x="601" y="396" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1720598691582">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="328" y="423" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1720610443981">
+      <screen x="0" y="0" width="1720" height="1400" />
     </state>
-    <state x="328" y="423" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1720.1400@0.0.1720.1400" timestamp="1720540445727" />
+    <state x="328" y="423" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1720.1400@0.0.1720.1400" timestamp="1720610443981" />
     <state x="601" y="396" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1720598691582" />
     <state x="604" y="504" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1720605629498">
       <screen x="0" y="0" width="1720" height="1400" />
     </state>
     <state x="604" y="504" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1720.1400@0.0.1720.1400" timestamp="1720605629498" />
-    <state width="1677" height="330" key="GridCell.Tab.0.bottom" timestamp="1720601157995">
+    <state width="1677" height="673" key="GridCell.Tab.0.bottom" timestamp="1720610449337">
       <screen x="0" y="0" width="1720" height="1400" />
     </state>
     <state width="1493" height="313" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1720269622742" />
-    <state width="1677" height="330" key="GridCell.Tab.0.bottom/0.0.1720.1400@0.0.1720.1400" timestamp="1720601157995" />
+    <state width="1677" height="673" key="GridCell.Tab.0.bottom/0.0.1720.1400@0.0.1720.1400" timestamp="1720610449337" />
     <state width="2517" height="331" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1720596600430" />
-    <state width="1677" height="330" key="GridCell.Tab.0.center" timestamp="1720601157995">
+    <state width="1677" height="673" key="GridCell.Tab.0.center" timestamp="1720610449337">
       <screen x="0" y="0" width="1720" height="1400" />
     </state>
     <state width="1493" height="313" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1720269622742" />
-    <state width="1677" height="330" key="GridCell.Tab.0.center/0.0.1720.1400@0.0.1720.1400" timestamp="1720601157995" />
+    <state width="1677" height="673" key="GridCell.Tab.0.center/0.0.1720.1400@0.0.1720.1400" timestamp="1720610449337" />
     <state width="2517" height="331" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1720596600430" />
-    <state width="1677" height="330" key="GridCell.Tab.0.left" timestamp="1720601157995">
+    <state width="1677" height="673" key="GridCell.Tab.0.left" timestamp="1720610449337">
       <screen x="0" y="0" width="1720" height="1400" />
     </state>
     <state width="1493" height="313" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1720269622742" />
-    <state width="1677" height="330" key="GridCell.Tab.0.left/0.0.1720.1400@0.0.1720.1400" timestamp="1720601157995" />
+    <state width="1677" height="673" key="GridCell.Tab.0.left/0.0.1720.1400@0.0.1720.1400" timestamp="1720610449337" />
     <state width="2517" height="331" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1720596600430" />
-    <state width="1677" height="330" key="GridCell.Tab.0.right" timestamp="1720601157995">
+    <state width="1677" height="673" key="GridCell.Tab.0.right" timestamp="1720610449337">
       <screen x="0" y="0" width="1720" height="1400" />
     </state>
     <state width="1493" height="313" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1720269622742" />
-    <state width="1677" height="330" key="GridCell.Tab.0.right/0.0.1720.1400@0.0.1720.1400" timestamp="1720601157995" />
+    <state width="1677" height="673" key="GridCell.Tab.0.right/0.0.1720.1400@0.0.1720.1400" timestamp="1720610449337" />
     <state width="2517" height="331" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1720596600430" />
     <state width="1677" height="330" key="GridCell.Tab.1.bottom" timestamp="1720601157996">
       <screen x="0" y="0" width="1720" height="1400" />
@@ -223,18 +242,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="976" y="298" width="607" height="804" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1720593591769" />
+    <state x="523" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1720606462019">
+      <screen x="0" y="0" width="1720" height="1400" />
+    </state>
+    <state x="523" y="315" width="672" height="678" key="search.everywhere.popup/0.0.1720.1400@0.0.1720.1400" timestamp="1720606462019" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/pages/BasketPage.java</url>
-          <line>17</line>
+          <line>18</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/pages/SearchPage.java</url>
-          <line>37</line>
+          <line>46</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -244,8 +267,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/org/example/steps/ProductSteps.java</url>
-          <line>42</line>
+          <line>54</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/steps/ProductSteps.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/steps/ProductSteps.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/steps/ProductSteps.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/steps/ProductSteps.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

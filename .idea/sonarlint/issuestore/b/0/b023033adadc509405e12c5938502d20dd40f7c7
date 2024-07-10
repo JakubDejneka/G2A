@@ -1,13 +1,0 @@
-
-F
-java:S1444"0Make this "public static searchPage" field final(ÍØ—Í
-F
-java:S1444"0Make this "public static basketPage" field final( ÍìÉ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÖÜ‰øÿÿÿÿ
-l
-java:S1104"VMake searchPage a static final constant or non-public and provide accessors if needed.(ÍØ—Í
-l
-java:S1104"VMake basketPage a static final constant or non-public and provide accessors if needed.( ÍìÉ
-U
-java:S1118":Add a private constructor to hide the implicit public one.(èÁ²ˆùÿÿÿÿ
-S	java:S106'"9Replace this use of System.out or System.err by a logger.(ûç¢íıÿÿÿÿ
