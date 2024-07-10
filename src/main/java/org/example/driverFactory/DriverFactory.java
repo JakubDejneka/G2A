@@ -41,7 +41,7 @@ public class DriverFactory{
         }
 
         driver.manage().deleteAllCookies();
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
 
         searchPage = new SearchPage(driver);
         basketPage = new BasketPage(driver);

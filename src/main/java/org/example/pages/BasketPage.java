@@ -18,5 +18,4 @@ public class BasketPage extends BasePage {
     public String getCartPrice() {
         return cartPrice.getText();
     }
-
 }

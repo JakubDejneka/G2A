@@ -10,5 +10,5 @@ Feature: Product search and cart verification
 
     Examples:
       | usageOfG2A |
-      | yes      |
-      | no   |
+      | yes        |
+      | no         |

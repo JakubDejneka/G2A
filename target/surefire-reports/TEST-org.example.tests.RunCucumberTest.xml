@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.tests.RunCucumberTest" time="121.551" tests="2" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.tests.RunCucumberTest" time="96.852" tests="2" errors="0" skipped="0" failures="1">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="PL"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.6\bin"/>
-    <property name="sun.java.command" value="C:\Users\Jacob\AppData\Local\Temp\surefire4209844735269516876\surefirebooter4499448149263140950.jar C:\Users\Jacob\AppData\Local\Temp\surefire4209844735269516876 2024-07-10T13-21-11_484-jvmRun1 surefire14870597737429523446tmp surefire_010727481342565206192tmp"/>
+    <property name="sun.java.command" value="C:\Users\Jacob\AppData\Local\Temp\surefire6159045932403210224\surefirebooter11026332766254198343.jar C:\Users\Jacob\AppData\Local\Temp\surefire6159045932403210224 2024-07-10T14-12-55_983-jvmRun1 surefire1910233593806851266tmp surefire_017210596814209151002tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\PROGRAMY\EclipseWorkspace\G2AProjekt\target\test-classes;D:\PROGRAMY\EclipseWorkspace\G2AProjekt\target\classes;C:\Users\Jacob\.m2\repository\org\seleniumhq\selenium\selenium-java\4.3.0\selenium-java-4.3.0.jar;C:\Users\Jacob\.m2\repository\org\seleniumhq\selenium\selenium-api\4.3.0\selenium-api-4.3.0.jar;C:\Users\Jacob\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.3.0\selenium-chrome-driver-4.3.0.jar;C:\Users\Jacob\.m2\repository\com\google\auto\service\auto-service-annotations\1.0.1\auto-service-annotations-1.0.1.jar;C:\Users\Jacob\.m2\repository\com\google\auto\service\auto-service\1.0.1\auto-service-1.0.1.jar;C:\Users\Jacob\.m2\repository\com\google\auto\auto-common\1.2\auto-common-1.2.jar;C:\Users\Jacob\.m2\repository\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\Jacob\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Jacob\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Jacob\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Jacob\.m2\repository\org\checkerframework\checker-qual\3.12.0\checker-qual-3.12.0.jar;C:\Users\Jacob\.m2\repository\com\google\errorprone\error_prone_annotations\2.11.0\error_prone_annotations-2.11.0.jar;C:\Users\Jacob\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\Jacob\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.3.0\selenium-chromium-driver-4.3.0.jar;C:\Users\Jacob\.m2\repository\org\seleniumhq\selenium\selenium-json\4.3.0\selenium-json-4.3.0.jar;C:\Users\Jacob\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v101\4.3.0\selenium-devtools-v101-4.3.0.jar;C:\Users\Jacob\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v102\4.3.0\selenium-devtools-v102-4.3.0.jar;C:\Users\Jacob\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v103\4.3.0\selenium-devtools-v103-4.3.0.jar;C:\Users\Jacob\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.3.0\selenium-devtools-v85-4.3.0.jar;C:\Users\Jacob\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.3.0\selenium-edge-driver-4.3.0.jar;C:\Users\Jacob\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.3.0\selenium-firefox-driver-4.3.0.jar;C:\Users\Jacob\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.3.0\selenium-ie-driver-4.3.0.jar;C:\Users\Jacob\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\4.3.0\selenium-opera-driver-4.3.0.jar;C:\Users\Jacob\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.3.0\selenium-remote-driver-4.3.0.jar;C:\Users\Jacob\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Jacob\.m2\repository\io\netty\netty-buffer\4.1.78.Final\netty-buffer-4.1.78.Final.jar;C:\Users\Jacob\.m2\repository\io\netty\netty-codec-http\4.1.78.Final\netty-codec-http-4.1.78.Final.jar;C:\Users\Jacob\.m2\repository\io\netty\netty-codec\4.1.78.Final\netty-codec-4.1.78.Final.jar;C:\Users\Jacob\.m2\repository\io\netty\netty-handler\4.1.78.Final\netty-handler-4.1.78.Final.jar;C:\Users\Jacob\.m2\repository\io\netty\netty-common\4.1.78.Final\netty-common-4.1.78.Final.jar;C:\Users\Jacob\.m2\repository\io\netty\netty-transport-classes-epoll\4.1.78.Final\netty-transport-classes-epoll-4.1.78.Final.jar;C:\Users\Jacob\.m2\repository\io\netty\netty-transport-classes-kqueue\4.1.78.Final\netty-transport-classes-kqueue-4.1.78.Final.jar;C:\Users\Jacob\.m2\repository\io\netty\netty-transport-native-epoll\4.1.78.Final\netty-transport-native-epoll-4.1.78.Final.jar;C:\Users\Jacob\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.78.Final\netty-transport-native-kqueue-4.1.78.Final.jar;C:\Users\Jacob\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.78.Final\netty-transport-native-unix-common-4.1.78.Final.jar;C:\Users\Jacob\.m2\repository\io\netty\netty-transport\4.1.78.Final\netty-transport-4.1.78.Final.jar;C:\Users\Jacob\.m2\repository\io\netty\netty-resolver\4.1.78.Final\netty-resolver-4.1.78.Final.jar;C:\Users\Jacob\.m2\repository\io\opentelemetry\opentelemetry-api\1.15.0\opentelemetry-api-1.15.0.jar;C:\Users\Jacob\.m2\repository\io\opentelemetry\opentelemetry-context\1.15.0\opentelemetry-context-1.15.0.jar;C:\Users\Jacob\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.15.0\opentelemetry-exporter-logging-1.15.0.jar;C:\Users\Jacob\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.15.0\opentelemetry-sdk-metrics-1.15.0.jar;C:\Users\Jacob\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.15.0-alpha\opentelemetry-sdk-logs-1.15.0-alpha.jar;C:\Users\Jacob\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.15.0\opentelemetry-sdk-common-1.15.0.jar;C:\Users\Jacob\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.15.0\opentelemetry-sdk-extension-autoconfigure-spi-1.15.0.jar;C:\Users\Jacob\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.15.0-alpha\opentelemetry-sdk-extension-autoconfigure-1.15.0-alpha.jar;C:\Users\Jacob\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.15.0\opentelemetry-sdk-trace-1.15.0.jar;C:\Users\Jacob\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.15.0\opentelemetry-sdk-1.15.0.jar;C:\Users\Jacob\.m2\repository\io\opentelemetry\opentelemetry-semconv\1.15.0-alpha\opentelemetry-semconv-1.15.0-alpha.jar;C:\Users\Jacob\.m2\repository\io\ous\jtoml\2.0.0\jtoml-2.0.0.jar;C:\Users\Jacob\.m2\repository\net\bytebuddy\byte-buddy\1.12.10\byte-buddy-1.12.10.jar;C:\Users\Jacob\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Jacob\.m2\repository\org\asynchttpclient\async-http-client\2.12.3\async-http-client-2.12.3.jar;C:\Users\Jacob\.m2\repository\org\asynchttpclient\async-http-client-netty-utils\2.12.3\async-http-client-netty-utils-2.12.3.jar;C:\Users\Jacob\.m2\repository\io\netty\netty-codec-socks\4.1.60.Final\netty-codec-socks-4.1.60.Final.jar;C:\Users\Jacob\.m2\repository\io\netty\netty-handler-proxy\4.1.60.Final\netty-handler-proxy-4.1.60.Final.jar;C:\Users\Jacob\.m2\repository\io\netty\netty-transport-native-epoll\4.1.60.Final\netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar;C:\Users\Jacob\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.60.Final\netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar;C:\Users\Jacob\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\Jacob\.m2\repository\com\typesafe\netty\netty-reactive-streams\2.0.4\netty-reactive-streams-2.0.4.jar;C:\Users\Jacob\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\Jacob\.m2\repository\com\sun\activation\jakarta.activation\1.2.2\jakarta.activation-1.2.2.jar;C:\Users\Jacob\.m2\repository\org\seleniumhq\selenium\selenium-http\4.3.0\selenium-http-4.3.0.jar;C:\Users\Jacob\.m2\repository\dev\failsafe\failsafe\3.2.4\failsafe-3.2.4.jar;C:\Users\Jacob\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.3.0\selenium-safari-driver-4.3.0.jar;C:\Users\Jacob\.m2\repository\org\seleniumhq\selenium\selenium-support\4.3.0\selenium-support-4.3.0.jar;C:\Users\Jacob\.m2\repository\io\cucumber\cucumber-java\6.11.0\cucumber-java-6.11.0.jar;C:\Users\Jacob\.m2\repository\io\cucumber\cucumber-core\6.11.0\cucumber-core-6.11.0.jar;C:\Users\Jacob\.m2\repository\io\cucumber\cucumber-gherkin\6.11.0\cucumber-gherkin-6.11.0.jar;C:\Users\Jacob\.m2\repository\io\cucumber\cucumber-gherkin-messages\6.11.0\cucumber-gherkin-messages-6.11.0.jar;C:\Users\Jacob\.m2\repository\io\cucumber\messages\15.0.0\messages-15.0.0.jar;C:\Users\Jacob\.m2\repository\io\cucumber\tag-expressions\3.0.1\tag-expressions-3.0.1.jar;C:\Users\Jacob\.m2\repository\io\cucumber\cucumber-expressions\10.3.0\cucumber-expressions-10.3.0.jar;C:\Users\Jacob\.m2\repository\io\cucumber\datatable\3.5.0\datatable-3.5.0.jar;C:\Users\Jacob\.m2\repository\io\cucumber\cucumber-plugin\6.11.0\cucumber-plugin-6.11.0.jar;C:\Users\Jacob\.m2\repository\io\cucumber\docstring\6.11.0\docstring-6.11.0.jar;C:\Users\Jacob\.m2\repository\io\cucumber\html-formatter\13.0.0\html-formatter-13.0.0.jar;C:\Users\Jacob\.m2\repository\io\cucumber\create-meta\4.0.0\create-meta-4.0.0.jar;C:\Users\Jacob\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Jacob\.m2\repository\io\cucumber\cucumber-junit\6.11.0\cucumber-junit-6.11.0.jar;C:\Users\Jacob\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Jacob\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -34,7 +34,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Jacob\AppData\Local\Temp\surefire4209844735269516876\surefirebooter4499448149263140950.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Jacob\AppData\Local\Temp\surefire6159045932403210224\surefirebooter11026332766254198343.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.6+8-LTS"/>
@@ -62,8 +62,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="Search for a product and verify the price in the cart without promotion #1" classname="Product search and cart verification" time="56.165"/>
-  <testcase name="Search for a product and verify the price in the cart without promotion #2" classname="Product search and cart verification" time="62.411">
+  <testcase name="Search for a product and verify the price in the cart without promotion #1" classname="Product search and cart verification" time="49.793"/>
+  <testcase name="Search for a product and verify the price in the cart without promotion #2" classname="Product search and cart verification" time="45.709">
     <failure message="The price in the cart does not match the expected price. expected:&lt;1[7.0]9 PLN&gt; but was:&lt;1[8.9]9 PLN&gt;" type="org.junit.ComparisonFailure"><![CDATA[org.junit.ComparisonFailure: The price in the cart does not match the expected price. expected:<1[7.0]9 PLN> but was:<1[8.9]9 PLN>
 ]]></failure>
     <system-out><![CDATA[
@@ -71,41 +71,41 @@
 Scenario Outline: Search for a product and verify the price in the cart without promotion # src/test/java/org/example/features/SearchForProduct.feature:14
   Given I navigate to the G2A homepage                                                    # org.example.steps.ProductSteps.iNavigateToTheG2AHomepage()
 
-    Embedding 1720610535032 [image/png 1709279 bytes]
+    Embedding 1720613636261 [image/png 1743104 bytes]
 
   When I search for product                                                               # org.example.steps.ProductSteps.iSearchForProduct()
 
-    Embedding 1720610561976 [image/png 263961 bytes]
+    Embedding 1720613656500 [image/png 263981 bytes]
 
   And I note the price of the product                                                     # org.example.steps.ProductSteps.iNoteThePriceOfTheProduct()
 
-    Embedding 1720610562356 [image/png 263981 bytes]
+    Embedding 1720613656866 [image/png 263981 bytes]
 
   And I add the product to the cart with priceVariant 'no'                                # org.example.steps.ProductSteps.iAddTheProductToTheCart(java.lang.String)
 
-    Embedding 1720610587617 [image/png 542745 bytes]
+    Embedding 1720613669114 [image/png 560328 bytes]
 
   Then I verify the price in the cart                                                     # org.example.steps.ProductSteps.iVerifyThePriceInTheCart()
       org.junit.ComparisonFailure: The price in the cart does not match the expected price. expected:<1[7.0]9 PLN> but was:<1[8.9]9 PLN>
 	at org.junit.Assert.assertEquals(Assert.java:117)
-	at org.example.steps.ProductSteps.iVerifyThePriceInTheCart(ProductSteps.java:56)
+	at org.example.steps.ProductSteps.iVerifyThePriceInTheCart(ProductSteps.java:55)
 	at âś˝.I verify the price in the cart(file:///D:/PROGRAMY/EclipseWorkspace/G2AProjekt/src/test/java/org/example/features/SearchForProduct.feature:9)
 
 
-    Embedding 1720610593136 [image/png 461227 bytes]
+    Embedding 1720613672569 [image/png 459709 bytes]
 
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 126.0.6478.126 (d36ace6122e0a59570e258d82441395206d60e1c-refs/branch-heads/6478@{#1591}) on port 52105
+    <system-err><![CDATA[Starting ChromeDriver 126.0.6478.126 (d36ace6122e0a59570e258d82441395206d60e1c-refs/branch-heads/6478@{#1591}) on port 60379
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-lip 10, 2024 1:22:14 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+lip 10, 2024 2:13:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-lip 10, 2024 1:22:14 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+lip 10, 2024 2:13:49 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 126, so returning the closest version found: a no-op implementation
-lip 10, 2024 1:22:14 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+lip 10, 2024 2:13:49 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 126.
-lip 10, 2024 1:22:14 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+lip 10, 2024 2:13:49 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.3.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>

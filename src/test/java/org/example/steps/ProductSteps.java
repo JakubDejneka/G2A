@@ -12,7 +12,7 @@ public class ProductSteps extends DriverFactory {
 
     private String productPrice;
     private String cartPrice;
-    String productName= System.getProperty("productName","gta");
+    String productName= System.getProperty("productName","diablo 2 lord of destruction");
 
 
     @When("I navigate to the G2A homepage")
@@ -52,7 +52,6 @@ public class ProductSteps extends DriverFactory {
 
     @Then("I verify the price in the cart")
     public void iVerifyThePriceInTheCart() {
-        cartPrice = basketPage.getCartPrice();
-        assertEquals("The price in the cart does not match the expected price.", productPrice, cartPrice);
+        assertEquals("The price in the cart does not match the expected price.", productPrice, basketPage.getCartPrice());
     }
 }
