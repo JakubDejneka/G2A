@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4d36a97-3995-4f8a-8691-aacf4855d380" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/driverFactory/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/driverFactory/DriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pages/BasketPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/BasketPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/features/SearchForProduct.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/features/SearchForProduct.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/steps/ProductSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/steps/ProductSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/driverFactory/DriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/driverFactory/DriverFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.example.tests.RunCucumberTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-org.example.tests.RunCucumberTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/org.example.tests.RunCucumberTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/org.example.tests.RunCucumberTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/steps/ProductSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/steps/ProductSteps.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
