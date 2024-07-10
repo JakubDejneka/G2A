@@ -1,0 +1,6 @@
+org\example\pages\BasketPage.class
+org\example\driverFactory\DriverFactory.class
+org\example\utils\GlobalVariables.class
+org\example\pages\BasePage.class
+org\example\pages\SearchPage.class
+org\example\steps\Hooks.class
