@@ -11,7 +11,6 @@ import static org.junit.Assert.fail;
 public class ProductSteps extends DriverFactory {
 
     private String productPrice;
-    private String cartPrice;
     String productName= System.getProperty("productName","diablo 2 lord of destruction");
 
 
@@ -23,7 +22,7 @@ public class ProductSteps extends DriverFactory {
     @When("I search for product")
     public void iSearchForProduct() {
         searchPage.searchProduct(productName);
-        if (!searchPage.productNotFoundValidation.isEmpty()) {
+        if (!searchPage.getProductNotFoundValidation().isEmpty()) {
             fail(String.format("Product: %s, can't be found. Please search for other.", productName));
         }
     }

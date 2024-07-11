@@ -7,9 +7,8 @@ import org.openqa.selenium.support.FindBy;
 public class BasketPage extends BasePage {
 
 
-    public @FindBy(xpath = "//*[contains(text(), 'Cena całkowita')]//ancestor::span/following-sibling::span")
-    WebElement cartPrice;
-
+    @FindBy(xpath = "//*[contains(text(), 'Cena całkowita')]//ancestor::span/following-sibling::span")
+    private WebElement cartPrice;
 
     public BasketPage(WebDriver driver) {
         super(driver);

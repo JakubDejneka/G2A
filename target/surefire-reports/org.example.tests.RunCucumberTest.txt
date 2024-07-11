@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: org.example.tests.RunCucumberTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 96.852 s <<< FAILURE! - in org.example.tests.RunCucumberTest
-Search for a product and verify the price in the cart without promotion #2(Product search and cart verification)  Time elapsed: 45.709 s  <<< FAILURE!
-org.junit.ComparisonFailure: The price in the cart does not match the expected price. expected:<1[7.0]9 PLN> but was:<1[8.9]9 PLN>
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 79.649 s <<< FAILURE! - in org.example.tests.RunCucumberTest
+Search for a product and verify the price in the cart without promotion #2(Product search and cart verification)  Time elapsed: 40.48 s  <<< FAILURE!
+org.junit.ComparisonFailure: The price in the cart does not match the expected price. expected:<1[7.1]3 PLN> but was:<1[9.0]3 PLN>
 
