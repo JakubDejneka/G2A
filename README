@@ -4,5 +4,3 @@ mvn clean test -DproductName="diablo 2 lord of destruction"
 Po wykonanym teście zostanie automatycznie wygenerowany raport w poniższej lokalizacji:
 target/cucumber-reports.html
 Jest to raport w postaci single-page html który zawiera: rezultat testu, kroki oraz załączone zrzuty ekranu
-
-P.S. Próbowałem skonfigurować projekt tak żeby działał z dockerem, ale nie mam jeszcze doświadczenia komercyjnego w tym temacie, więc pozostawiłem to z niedziałającym do końca Dockerfile.
